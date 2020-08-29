@@ -1,0 +1,20 @@
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+
+table {
+    width: 60%;
+}
+
+th, td {
+ padding: 10px;
+}
+
+th {
+ text-align: left;
+}
+
+.sub_heading {
+ font-style: italic;
+}
